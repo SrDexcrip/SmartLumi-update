@@ -1,5 +1,6 @@
 {
-  "version": "1.0.3",
-  "url_zip": "https://github.com/SrDexcrip/SmartLumi-update/releases/download/v1.0.3/SmartLumiPOS.zip",
-  "notas": "Versión 1.0.3 con mejoras. bien locas"
+  "version": "1.0.3.1",
+
+  "url_zip": "https://github.com/SrDexcrip/SmartLumi-update/releases/download/v1.0.3.1/SmartLumiPOS.zip",
+  "notas": "Versión 1.0.3.1. version beta. Se han corregido errores menores y se han mejorado algunas funciones.\n Esta versión es una actualización menor que no requiere cambios significativos en la base de datos ni en la configuración del sistema."
 }
